@@ -24,6 +24,10 @@ Task Manager Application using react and redux. Used json-server for serving bac
 
 You can use it as boiler plate for your CRUD application. No need to go over lengthy video tutorials.
 
-Screenshot
+Screenshots
 
-![alt text](add-task-manager-application-jun-2024-1.png)
+![alt text](add-task-manager-application-jun-2024.png)
+
+Update Task
+
+![alt text](update-task-manager-jun-2024.png)
